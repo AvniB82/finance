@@ -1,9 +1,11 @@
 Financial Data Analysis
 
 Description:
+
   This project involves the creation of JavaScript code to analyze a company's financial records and present key metrics, including the total number of months, overall financial total, average change, greatest increase in profits/losses, and greatest decrease in profits/losses based on the provided dataset.
 
 Project Criteria Met:
+
   Calculated the total number of months within the given dataset.
   Computed the net total amount of Profit/Losses across the entire period.
   Determined the average changes in Profit/Losses throughout the entire duration.
@@ -13,4 +15,5 @@ Project Criteria Met:
 
 
 Installation:
+
   No installation is necessary to view the website in a web browser. The website is accessible through the deployed GitPage link provided below, or you can download the project files and open the index.html file in a web browser of your choice.
